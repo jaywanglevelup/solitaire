@@ -1,0 +1,60 @@
+<config>
+    <cards content='1' handcard ='1' num='A' color='spade' ></cards>
+    <cards content='2' handcard ='1' num='2' color='spade' ></cards>
+    <cards content='3' handcard ='1' num='3' color='spade' ></cards>
+    <cards content='4' handcard ='1' num='4' color='spade' ></cards>
+    <cards content='5' handcard ='1' num='5' color='spade' ></cards>
+    <cards content='6' handcard ='1' num='6' color='spade' ></cards>
+    <cards content='7' handcard ='1' num='7' color='spade' ></cards>
+    <cards content='8' handcard ='1' num='8' color='spade' ></cards>
+    <cards content='9' handcard ='1' num='9' color='spade' ></cards>
+    <cards content='10' handcard ='1' num='T' color='spade' ></cards>
+    <cards content='11' handcard ='1' num='J' color='spade' ></cards>
+    <cards content='12' handcard ='1' num='Q' color='spade' ></cards>
+    <cards content='13' handcard ='1' num='K' color='spade' ></cards>
+
+    <cards content='14' handcard ='1' num='A' color='heart' ></cards>
+    <cards content='15' handcard ='1' num='2' color='heart' ></cards>
+    <cards content='16' handcard ='1' num='3' color='heart' ></cards>
+    <cards content='17' handcard ='1' num='4' color='heart' ></cards>
+    <cards content='18' handcard ='1' num='5' color='heart' ></cards>
+    <cards content='19' handcard ='1' num='6' color='heart' ></cards>
+    <cards content='20' handcard ='1' num='7' color='heart' ></cards>
+    <cards content='21' handcard ='1' num='8' color='heart' ></cards>
+    <cards content='22' handcard ='1' num='9' color='heart' ></cards>
+    <cards content='23' handcard ='1' num='T' color='heart' ></cards>
+    <cards content='24' handcard ='1' num='J' color='heart' ></cards>
+    <cards content='25' handcard ='1' num='Q' color='heart' ></cards>
+    <cards content='26' handcard ='1' num='K' color='heart' ></cards>
+
+    <cards content='27' handcard ='1' num='A' color='club' ></cards>
+    <cards content='28' handcard ='1' num='2' color='club' ></cards>
+    <cards content='29' handcard ='1' num='3' color='club' ></cards>
+    <cards content='30' handcard ='1' num='4' color='club' ></cards>
+    <cards content='31' handcard ='1' num='5' color='club' ></cards>
+    <cards content='32' handcard ='1' num='6' color='club' ></cards>
+    <cards content='33' handcard ='1' num='7' color='club' ></cards>
+    <cards content='34' handcard ='1' num='8' color='club' ></cards>
+    <cards content='35' handcard ='1' num='9' color='club' ></cards>
+    <cards content='36' handcard ='1' num='T' color='club' ></cards>
+    <cards content='37' handcard ='1' num='J' color='club' ></cards>
+    <cards content='38' handcard ='1' num='Q' color='club' ></cards>
+    <cards content='39' handcard ='1' num='K' color='club' ></cards>
+
+    <cards content='40' handcard ='1' num='A' color='diamond' ></cards>
+    <cards content='41' handcard ='1' num='2' color='diamond' ></cards>
+    <cards content='42' handcard ='1' num='3' color='diamond' ></cards>
+    <cards content='43' handcard ='1' num='4' color='diamond' ></cards>
+    <cards content='44' handcard ='1' num='5' color='diamond' ></cards>
+    <cards content='45' handcard ='1' num='6' color='diamond' ></cards>
+    <cards content='46' handcard ='1' num='7' color='diamond' ></cards>
+    <cards content='47' handcard ='1' num='8' color='diamond' ></cards>
+    <cards content='48' handcard ='1' num='9' color='diamond' ></cards>
+    <cards content='49' handcard ='1' num='T' color='diamond' ></cards>
+    <cards content='50' handcard ='1' num='J' color='diamond' ></cards>
+    <cards content='51' handcard ='1' num='Q' color='diamond' ></cards>
+    <cards content='52' handcard ='1' num='K' color='diamond' ></cards>
+
+    <cards content='53' handcard ='2' num='a' color='joker' ></cards>
+    <cards content='54' handcard ='2' num='b' color='joker' ></cards>
+</config>

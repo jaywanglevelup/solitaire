@@ -1,0 +1,34 @@
+spade 纸牌中的 黑桃 
+
+club 纸牌中的 梅花 
+
+diamond 纸牌中的 方块 
+
+heart 纸牌中的 红心 
+
+Jack 纸牌中的 J 
+
+Queen 纸牌中的 Q 
+
+King 纸牌中的 K
+
+1.大王   
+2.小王 
+3.3个同点数牌连出 
+4.3+2 
+5.4同点数牌连出 
+6.4同点数牌+1其他牌 
+7.对子 
+8.顺子 
+9.同花顺
+
+1. joker 
+2. joker (国外扑克牌没有大小之分,玩的时候好多情况下都不用他们) 
+3. three of a kind 
+4. full house 
+5. four of a kind 
+6. four of a kind (国外扑克游戏里没有带牌的一说) 
+7. two of a kind, a pair, deuce 
+8. straight 
+9. straight flush 
+10.同花=flush

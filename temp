@@ -1,0 +1,11 @@
+f=Fiber.new do |a,b|
+  Fiber.yield a+b,a-b
+  p a,b
+end
+
+p f.resume(11,10)
+puts "once\n"
+p f.resume(3,4)
+
+puts "twice\n"
+
